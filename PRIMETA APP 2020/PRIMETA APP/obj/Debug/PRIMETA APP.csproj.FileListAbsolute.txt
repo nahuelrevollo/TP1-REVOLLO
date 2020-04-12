@@ -1,0 +1,11 @@
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\bin\Debug\PRIMETA APP.exe.config
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\bin\Debug\PRIMETA APP.exe
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\bin\Debug\PRIMETA APP.pdb
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\obj\Debug\PRIMETA APP.csprojAssemblyReference.cache
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\obj\Debug\PRIMETA_APP.Form1.resources
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\obj\Debug\PRIMETA_APP.FormVentana2.resources
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\obj\Debug\PRIMETA_APP.Properties.Resources.resources
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\obj\Debug\PRIMETA APP.csproj.GenerateResource.cache
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\obj\Debug\PRIMETA APP.csproj.CoreCompileInputs.cache
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\obj\Debug\PRIMETA APP.exe
+C:\Users\Rochi\source\repos\PRIMETA APP 2020\PRIMETA APP\obj\Debug\PRIMETA APP.pdb
